@@ -20,4 +20,5 @@ Managing finances as a student can be tricky, especially with currency differenc
 ## 💻 How to Run
 1. **Clone the repository**
    ```bash
+- [x] Integration with NBP (Narodowy Bank Polski) API
    git clone [https://github.com/bariskocc77/WarsawStudentBudgetTracker.git](https://github.com/YOUR_USERNAME/WarsawStudentBudgetTracker.git)
